@@ -1,7 +1,7 @@
 {
   "name": "spotify-project",
   "version": "1.0.0",
-  "description": "A project to search and listen to songs on Spotify with React",
+  "description": "A project to search and listen to songs with Spotify API with React",
   "homepage": "https://olopezz.github.io/spotify-project",
   "main": "index.js",
   "scripts": {
